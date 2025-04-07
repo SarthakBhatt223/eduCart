@@ -31,7 +31,6 @@ Prerequisites:
 - Python 3.6 or higher
 - Git (optional)
 
-```bash
 # Clone the repository (or download ZIP)
 git clone https://github.com/SarthakBhatt223/eduCart.git
 
